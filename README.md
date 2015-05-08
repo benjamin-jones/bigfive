@@ -1,2 +1,2 @@
 # bigfive
-Five Problems any Software Engineer ought to be able to solve in under and hour.
+Five Problems any Software Engineer ought to be able to solve in under an hour.
